@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevarse",
+        "uuid": 81396,
+        "checksum": "g6rpd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
